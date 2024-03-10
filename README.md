@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **AI/ML**
 
-- 📝 I regularly write articles on [https://www.codingmasterweb.com](https://www.codingmasterweb.com)
+- 📝 I regularly write articles on [https://www.codingmasterweb.com](https://www.codingmasterweb.in)
 
 - 📫 How to reach me **kdi.tarun@gmail.com**
 
