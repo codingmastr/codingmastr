@@ -9,11 +9,9 @@
 
 - 🔭 I’m currently working on **AI/ML**
 
-- 📝 I regularly write articles on [https://www.codingmasterweb.com](https://www.codingmasterweb.in)
+- 📝 I regularly write articles on [https://www.codingmasterweb.in](https://www.codingmasterweb.in)
 
 - 📫 How to reach me **kdi.tarun@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1_5MjvL93Y6-bEdgO1ZyMhqcmZLjdC8X0/view?usp=drive_link](https://drive.google.com/file/d/1_5MjvL93Y6-bEdgO1ZyMhqcmZLjdC8X0/view?usp=drive_link)
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
